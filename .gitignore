@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database (Keep your local data private)
+data/linksurfer.db
+
+# Output files
+data/text_output/*.txt
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
